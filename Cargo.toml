@@ -1,0 +1,6 @@
+[package]
+name = "SuperChat"
+version = "0.1.0"
+authors = ["Charles Bean <beanchar@cse.msu.edu>"]
+
+[dependencies]
